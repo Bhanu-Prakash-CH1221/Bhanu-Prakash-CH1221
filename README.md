@@ -44,13 +44,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhanu-Prakash-CH1221&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhanu-Prakash-CH1221&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Bhanu-Prakash-CH1221&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Prakash-CH1221&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## 🔗 Connect with me
