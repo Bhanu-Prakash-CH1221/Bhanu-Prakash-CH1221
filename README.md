@@ -11,7 +11,7 @@
 
 ## 🧠 Skills & Technologies
 - 💻 SystemVerilog, Verilog, UVM
-- 🔌 AMBA Protocols (APB, AXI)
+- 🔌 AMBA Protocols (APB, AXI, AHB)
 - ⚙️ FPGA (Basys 3, Zynq)
 - 🧪 Verification (Testbench, Scoreboard, Coverage)
 - 🐍 Python (Automation, ML basics)
