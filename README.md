@@ -39,7 +39,6 @@
 - Optimized for large image handling  
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
