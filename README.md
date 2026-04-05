@@ -84,10 +84,10 @@ Welcome to my GitHub! I am a dedicated **SoC Verification Engineer** currently c
 ### 🧪 3. EDA Tools & FPGA Platforms
 | Category | Tools |
 | :--- | :--- |
-| **Simulation / Verification** | Siemens QuestaSim, Mentor Graphics ModelSim, Synopsys VCS, Cadence Xcelium. |
+| **Simulation / Verification** | Siemens QuestaSim, Mentor Graphics ModelSim. |
 | **Synthesis & FPGA** | Xilinx Vivado, Intel Quartus Prime, Xilinx ISE. |
 | **Waveform Debugging** | GTKWave, Synopsys Verdi, ModelSim Wave window. |
-| **Target Hardware** | Xilinx Zynq-7000 SoC, Artix-7, Basys 3 boards. |
+| **Target Hardware** | Xilinx Zynq-7000 SoC, Artix-7, Basys 3 boards, Zed Board, Xilinx Ultrascale |
 | **Version Control** | Git, GitHub, Bitbucket. |
 
 <br>
