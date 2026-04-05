@@ -44,11 +44,15 @@ Welcome to my GitHub! I am a dedicated **SoC Verification Engineer** currently c
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanu-Prakash-CH1221&theme=tokyonight&area=true&hide_border=true&v=1" width="100%" />
 
 ### 🏆 Profile Summary Statistics
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhanu-Prakash-CH1221&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&v=1" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=Bhanu-Prakash-CH1221&theme=tokyonight&hide_border=true&v=1" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhanu-Prakash-CH1221&show_icons=true&theme=tokyonight&v=2" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Bhanu-Prakash-CH1221&theme=tokyonight&hide_border=true&v=2" />
+</p>
 
 ### 💻 Technology Distribution
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Prakash-CH1221&layout=compact&theme=tokyonight&langs_count=10&v=1" />
+<p align="center">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Prakash-CH1221&layout=compact&theme=tokyonight&langs_count=8&v=2" />
+</p>
 
 </div>
 
