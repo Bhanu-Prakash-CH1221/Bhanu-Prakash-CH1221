@@ -1,10 +1,10 @@
-<div align="center">
+**<div align="center">
 
-# 🚀 BHANU PRAKASH
+# 🚀 CH BHANU PRAKASH
 
 ### ⚡ Transforming Complex RTL into Silicon-Proven Reality
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:00ccff&height=250&section=header&text=BHANU%20PRAKASH&fontSize=70&animation=fadeIn&fontAlignY=35&v=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:00ccff&height=250&section=header&text=BHANU%20PRAKASH&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ch-bhanu-prakash-61b156318)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanuprakash1420@gmail.com)
@@ -41,14 +41,19 @@ Welcome to my GitHub! I am a dedicated **SoC Verification Engineer** currently c
 <div align="center">
 
 ### 📈 Weekly Contribution Patterns
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanu-Prakash-CH1221&theme=tokyonight&area=true&hide_border=true&v=3" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanu-Prakash-CH1221&theme=tokyonight&area=true&hide_border=true" width="100%" />
 
 ### 🏆 Profile Summary Statistics
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhanu-Prakash-CH1221&show_icons=true&theme=tokyonight&v=3" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=Bhanu-Prakash-CH1221&theme=tokyonight&hide_border=true&v=3" />
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhanu-Prakash-CH1221&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Bhanu-Prakash-CH1221&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 💻 Technology Distribution
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu-Prakash-CH1221&layout=compact&theme=tokyonight&langs_count=8&v=3" />
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhanu-Prakash-CH1221&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhanu-Prakash-CH1221&theme=tokyonight" />
+</p>
 
 </div>
 
@@ -158,4 +163,4 @@ class apb_seq_item extends uvm_sequence_item;
   function new(string name = "apb_seq_item");
     super.new(name);
   endfunction
-endclass
+endclass**
