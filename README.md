@@ -4,7 +4,7 @@
 
 ### ⚡ Transforming Complex RTL into Silicon-Proven Reality
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:00ccff&height=250&section=header&text=BHANU%20PRAKASH&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:FF00FF&height=250&section=header&text=BHANU%20PRAKASH&fontSize=70&animation=slideInRight&fontAlignY=35" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ch-bhanu-prakash-61b156318)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanuprakash1420@gmail.com)
